@@ -1,0 +1,56 @@
+#+Title: Clojure introduction
+#+Author: Kevin Li
+#+Email: kevin.li@reacreation.org
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+REVEAL_PLUGINS: (highlight)
+#+REVEAL_THEME: simple
+#+OPTIONS: toc:nil
+
+* 准备工作
+  [[https://github.com/zhaoyul/clj-intro][本课程相关材料]]
+
+* 语法
+
+* 类型
+
+* 执行流程控制
+
+* 函数
+
+* 容器
+
+* 递归
+
+* Lein介绍
+
+* Clojure和Java
+
+* clj->Java
+
+* 工程中使用Java文件
+
+* 并发
+
+* atom
+
+* refs和Agent
+
+* core.async
+
+* Type和Record
+
+* 多线程
+
+* Protocals
+
+* 读写文件
+
+* 数据库操作
+
+* HTTP
+
+* Reitit
+
+* HTML展现
+
+* 例子:代码统计
